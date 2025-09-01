@@ -20,7 +20,7 @@ O projeto foi desenvolvido utilizando HTML5 e CSS3, garantindo compatibilidade c
 
 ## Como Utilizar
 
-Para visualizar o site, basta abrir o arquivo principal em qualquer navegador. A navegação pelas seções permite explorar cada cidade, aprendendo sobre sua história, cultura e pontos turísticos.
+Para visualizar o site, basta abrir o link: https://laulau-ps.github.io/Proj_CidadesSP/
 
 ## Autor
 
