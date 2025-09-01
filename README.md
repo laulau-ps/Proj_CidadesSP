@@ -18,9 +18,8 @@ O site permite aos usuários conhecer as dez cidades selecionadas, suas caracter
 
 O projeto foi desenvolvido utilizando HTML5 e CSS3, garantindo compatibilidade com navegadores modernos e um visual agradável.
 
-## Como Utilizar
-
-Para visualizar o site, basta abrir o link: https://laulau-ps.github.io/Proj_CidadesSP/
+<h2>⚙️ Como acessar</h2>
+    <p>Para ver o projeto em funcionamento, você pode acessá-lo diretamente pelo link de seu site.</p>
 
 ## Autor
 
